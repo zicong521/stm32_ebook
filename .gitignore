@@ -1,4 +1,11 @@
 # Prerequisites
+
+/LCD_Display/USER/*
+/LCD_Display/CORE/*
+/LCD_Display/FWLIB/*
+/LCD_Display/OBJ/*
+!/LCD_Display/USER/main.c
+
 *.d
 
 # Object files
